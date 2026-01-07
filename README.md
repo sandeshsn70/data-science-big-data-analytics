@@ -2,11 +2,6 @@
 
 # 📊 Data Science & Big Data Analytics Laboratory
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-darkblue?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-purple?style=for-the-badge&logo=numpy)
-![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?style=for-the-badge&logo=github)
-
 </div>
 
 ---
@@ -42,7 +37,6 @@ Version Control      : Git & GitHub
 ## 📂 Repository Structure
 
 ```text
-
 Data Science & Big Data Analytics
 │
 ├── Practicals/
@@ -98,7 +92,6 @@ After completing this laboratory, students will be able to:
   
 ## 👨‍🎓 Student Information
 ```text
-
 Name   : Sandesh Naikwade
 Course : Data Science and Big Data Analytics
 Type   : Laboratory Practicals
