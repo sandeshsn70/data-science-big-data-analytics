@@ -37,3 +37,69 @@ Programming Language : Python
 Libraries            : NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 IDE / Platform       : Jupyter Notebook, VS Code
 Version Control      : Git & GitHub
+```
+
+## 📂 Repository Structure
+
+```text
+
+Data Science & Big Data Analytics
+│
+├── Practicals/
+│   ├── Data_Wrangling_Iris_Dataset.ipynb
+│   ├── Data_Preprocessing.ipynb
+│   └── Exploratory_Data_Analysis.ipynb
+│
+├── Datasets/
+│   └── IRIS.csv
+│
+├── README.md
+```
+## 🧪 List of Experiments
+
+1. Data Wrangling using open-source datasets  
+2. Data cleaning and handling missing values  
+3. Data formatting and normalization  
+4. Conversion of categorical variables into numerical variables  
+5. Exploratory Data Analysis (EDA)  
+6. Introduction to basic machine learning models  
+
+---
+
+## 📊 Dataset Used
+
+### 🌸 Iris Flower Dataset
+
+- **Source:** Kaggle (Open Source)  
+
+- **Description:**  
+  Contains measurements of iris flowers belonging to three species:
+  - Iris-setosa  
+  - Iris-versicolor  
+  - Iris-virginica  
+
+- **Attributes:**
+  - Sepal Length  
+  - Sepal Width  
+  - Petal Length  
+  - Petal Width  
+  - Species  
+
+---
+
+## 📌 Learning Outcomes
+
+After completing this laboratory, students will be able to:
+
+- Perform real-world data preprocessing  
+- Analyze and visualize datasets effectively  
+- Convert raw data into ML-ready format  
+- Understand practical challenges in data science
+  
+## 👨‍🎓 Student Information
+```text
+
+Name   : Sandesh Naikwade
+Course : Data Science and Big Data Analytics
+Type   : Laboratory Practicals
+```
