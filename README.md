@@ -1,98 +1,104 @@
 <div align="center">
 
 # 📊 Data Science & Big Data Analytics Laboratory
+### Complete Practical Solutions Repository
+
+A curated collection of **hands-on implementations, experiments, and mini-projects**  
+covering core concepts of **Data Science and Big Data Analytics** using real-world datasets.
 
 </div>
 
 ---
 
-## 📘 Subject Overview
+## 🚀 About This Repository
 
-This repository contains all practical experiments performed as part of the  
+This repository contains **complete, well-structured solutions** for the  
 **Data Science and Big Data Analytics Laboratory**.
 
-The lab focuses on **data preprocessing, data wrangling, exploratory data analysis, and foundational machine learning concepts** using Python and real-world datasets.
+The focus is on:
+- Practical problem-solving  
+- Clean and readable code  
+- Real-world datasets  
+- Strong foundation in data analysis, machine learning, and big data concepts  
+
+All experiments are implemented using **industry-relevant tools and libraries**.
 
 ---
 
-## 🎯 Objectives
+## 🧠 Key Skills Demonstrated
 
-- Understand data wrangling and preprocessing techniques  
-- Perform exploratory data analysis (EDA)  
-- Handle missing, inconsistent, and categorical data  
-- Apply data normalization and transformation  
-- Gain hands-on experience with Python data science libraries  
+- Data Wrangling & Data Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Statistical Analysis & Descriptive Statistics  
+- Data Cleaning, Missing Value Handling & Outlier Detection  
+- Data Normalization & Feature Scaling  
+- Categorical Variable Encoding  
+- Data Visualization (Matplotlib, Seaborn)  
+- Machine Learning Models:
+  - Linear Regression  
+  - Logistic Regression  
+  - Naïve Bayes Classification  
+- Model Evaluation:
+  - Confusion Matrix  
+  - Accuracy, Precision, Recall  
+- Text Analytics & NLP Preprocessing  
+- TF-IDF Feature Representation  
+- Big Data Analytics Concepts  
+- Hadoop MapReduce  
+- Apache Spark (Scala / Java)  
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🧪 Laboratory Experiments Covered
 
-```text
-Programming Language : Python
-Libraries            : NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-IDE / Platform       : Jupyter Notebook, VS Code
-Version Control      : Git & GitHub
-```
+### 🔹 Data Science
+- Data Wrangling (I & II) using open-source datasets  
+- Descriptive Statistics & Statistical Analysis  
+- Exploratory Data Analysis (EDA)  
+- Regression & Classification Models  
+- Text Analytics & NLP  
+- Data Visualization using real datasets (Iris, Titanic, etc.)
+
+### 🔹 Big Data Analytics
+- Word Count using Hadoop MapReduce  
+- Distributed Data Processing  
+- Spark-based applications (Scala / Java)
+
+### 🔹 Mini Projects / Case Studies
+- Real-world dataset analysis  
+- Recommendation systems  
+- Sentiment analysis  
+- Data-driven case studies  
+
+---
 
 ## 📂 Repository Structure
 
 ```text
-Data Science & Big Data Analytics
-│
-├── Practicals/
-│   ├── Data_Wrangling_Iris_Dataset.ipynb
-│   ├── Data_Preprocessing.ipynb
-│   └── Exploratory_Data_Analysis.ipynb
-│
 ├── Datasets/
-│   └── IRIS.csv
+│   ├── IRIS.csv
+│   ├── Titanic.csv
 │
-├── README.md
+├── Data_Wrangling/
+├── Exploratory_Data_Analysis/
+├── Machine_Learning/
+├── Text_Analytics/
+├── Big_Data_Analytics/
+│
+└── README.md
 ```
-## 🧪 List of Experiments
+## 🛠️ Tools & Technologies
 
-1. Data Wrangling using open-source datasets  
-2. Data cleaning and handling missing values  
-3. Data formatting and normalization  
-4. Conversion of categorical variables into numerical variables  
-5. Exploratory Data Analysis (EDA)  
-6. Introduction to basic machine learning models  
+- **Programming Languages:** Python, Java, Scala  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Big Data Tools:** Hadoop, Apache Spark  
+- **Platforms:** Jupyter Notebook, VS Code  
+- **Version Control:** Git & GitHub  
 
 ---
 
-## 📊 Dataset Used
+## 👨‍💻 Author
 
-### 🌸 Iris Flower Dataset
-
-- **Source:** Kaggle (Open Source)  
-
-- **Description:**  
-  Contains measurements of iris flowers belonging to three species:
-  - Iris-setosa  
-  - Iris-versicolor  
-  - Iris-virginica  
-
-- **Attributes:**
-  - Sepal Length  
-  - Sepal Width  
-  - Petal Length  
-  - Petal Width  
-  - Species  
-
----
-
-## 📌 Learning Outcomes
-
-After completing this laboratory, students will be able to:
-
-- Perform real-world data preprocessing  
-- Analyze and visualize datasets effectively  
-- Convert raw data into ML-ready format  
-- Understand practical challenges in data science
-  
-## 👨‍🎓 Student Information
-```text
-Name   : Sandesh Naikwade
-Course : Data Science and Big Data Analytics
-Type   : Laboratory Practicals
-```
+**Sandesh Naikwade**  
+📌 Data Science & Big Data Analytics  
+📌 Computer Engineering  
